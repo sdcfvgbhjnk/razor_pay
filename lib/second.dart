@@ -67,7 +67,7 @@ class _ContinueState extends State<Continue> {
                                 );
                               },
                             );
-                            // print("skip");
+                            print("skip");
                             // pref!.setString("levelstatus$cur_level", "skip");
                             // cur_level++;
                             // pref!.setInt("levelno", cur_level);
