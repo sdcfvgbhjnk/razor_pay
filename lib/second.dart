@@ -266,7 +266,7 @@ class _ContinueState extends State<Continue> {
                                         child: Text(
                                           "SUBMIT",
                                           style: TextStyle(
-                                              fontSize: 20,
+                                              fontSize:15,
                                               color: Colors.white,
                                               fontWeight: FontWeight.bold),
                                         ),
